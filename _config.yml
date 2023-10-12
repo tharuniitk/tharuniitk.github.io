@@ -1,0 +1,65 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Tharun Reddy
+
+
+baseurl:  # the subpath of the site
+url: "https://tharuniitk.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/IMG2.png
+
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: CognitiveBClLab
+      link: https://madhavlab.github.io/
+    - name: Publications
+    - name: Teaching
+    - name: Resources
+    - name: Opportunities
+    - name: Photos
+    
+
+
+
+footer:
+
+  contact:
+    - name: Email
+      value: tharun.reddy@ece.iitr.ac.in
+      link: mailto:tharun.reddy@ece.iitr.ac.in
+  
+
+  follow:
+
+    - name: GitHub
+      link: https://github.com/islitik123/HJBpaperIJCNN2017
+      
+    - name: YouTube
+      link: https://www.youtube.com/watch?v=Wlwvgm3AHvc&list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq
+
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
