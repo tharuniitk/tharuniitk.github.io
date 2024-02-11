@@ -66,7 +66,7 @@ I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins
 
 
 ## <span style="color: Green">Contact me:</span>
-_Dr. Tharun Kumar Reddy Bollu_
+**Dr. Tharun Kumar Reddy Bollu**
 - Assistant Professor
 - Department of Electronics and Communication Engineering
 - IIT Roorkee
