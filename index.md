@@ -25,6 +25,7 @@ I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins
 
 
 ## <span style="color: Green">Research Experience (most recent):</span>
+
 | 2023 November : <br> <b>Following papers have been accepted for oral presentation from our research group at IEEE SILCON 2023, conducted by IEEE NIT SILCHAR subsection. Congratulations!! </b><br>(a) Entropy based EEG irregularity quantification in Single-Channel SSVEP-based BCIs <br>(b) Schizophrenia and Bipolar Psychosis Classification with rsfMRI Functional Connectivity Feature Fusion technique using Super Learner<br> <br/>|
 
 | 2023 July : <br>— "Regularized Riemannian-based Intelligent System for Dementia Screening using MEG Signals " chapter got selected in the book  Artificial Intelligence Enabled Signal Processing based Models for Neural Information Processing to be published by CRC Press.<br/>| 
