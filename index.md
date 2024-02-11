@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 ## <span style="color: green">Open positions/Career</span>
--<b>Internship oppurtunities are available</b>, currently looking for interns in the following positions: part-time Webapp Developer, unreal/unity enviroment developers. We are looking for student interns who can excel in these areas with focus on research based development. If any of you match the areas above, please email me at tharun.reddy@ece.iitr.ac.in. Both IIT/Non-IIT students, can approach for these oppurtunities. 
+-<b>Internship oppurtunities are available</b>, currently looking for interns in the following positions: part-time Webapp Developer, unreal/unity enviroment developers. We are looking for student interns who can excel in these areas with focus on research based development. If any of you match the areas above, please email me at tharun.reddy@ece.iitr.ac.in.  
 
 ## <span style="color: Green"> About me </span>
 I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/1HOyRPzQv4ACFscKFfPbERQ-_Db9rF44c/view?usp=sharing)", and my M.Tech thesis  was titled as [<ins> Learning and Divergence based approaches for drowsiness detection</ins>](https://.drivegoogle.com/file/d/1O_e3SM5yiHwZegvkOSqVndaMydc422GP/view?usp=sharing).
