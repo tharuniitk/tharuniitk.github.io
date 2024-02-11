@@ -54,6 +54,8 @@ slug: /publications
 16. V. Gupta, S. Swaminathan, T.K.Reddy, ‘Performance Study of Neural Structured Learning Using Riemannian Features for BCI Classification.’ accepted and presented In 2022 IEEE, National conference on communications
 17. Swati Singh, Vinay Gupta, T.K. Reddy, ‘Meditation and Cognitive Enhancement: A Machine Learning Based Classification Using EEG’ submitted at IEEE SMC 2022
 18. Singh, Vivek, and Tharun Kumar Reddy. "Eeg-based reaction time prediction with fuzzy common spatial patterns and phase cohesion using deep autoencoder based data fusion." 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON). IEEE, 2023.
+19. K. Gaurav, S. D. Reddy and T. Kumar Reddy, "Entropy based EEG irregularity quantification in Single-Channel SSVEP-based BCIs," 2023 IEEE Silchar Subsection Conference (SILCON), Silchar, India, 2023, pp. 1-6, doi: 10.1109/SILCON59133.2023.10404149.
+20. S. D. Reddy, K. Gaurav and T. K. Reddy, "Schizophrenia and Bipolar Psychosis Classification with rsfMRI Functional Connectivity Feature Fusion technique using Super Learner," 2023 IEEE Silchar Subsection Conference (SILCON), Silchar, India, 2023, pp. 1-6, doi: 10.1109/SILCON59133.2023.10404202.
 
 ## <span style="color: orangered">Book Chapters</span>
 
