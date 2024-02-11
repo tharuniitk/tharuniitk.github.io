@@ -62,7 +62,15 @@ slug: /publications
 1. A. Kumar Chaudhary, V. Gupta, K. Gaurav, T. Kumar Reddy, and L. Behera, ‘EEG Control of a Robotic Wheelchair’, Human-Robot Interaction - Perspectives and Applications. IntechOpen, May 10, 2023. doi: 10.5772/intechopen.110679.
 2. “Riemannian Deep Feature Fusion with auto-encoder for MEG Depression Classification in Smart Healthcare applications” chapter in the book entitled “Data Fusion Techniques and Applications for Smart Healthcare” to be published by Book Series Intelligent Data-Centric Systems, Elsevier. (In Press)
 
-3. "Regularized Riemannian-based Intelligent System for Dementia Screening using MEG Signals " chapter in the book  Artificial Intelligence Enabled Signal Processing based Models for Neural Information Processing to be published by CRC Press. (In Press) 
+3. "Regularized Riemannian-based Intelligent System for Dementia Screening using MEG Signals " chapter in the book  Artificial Intelligence Enabled Signal Processing based Models for Neural Information Processing to be published by CRC Press. (In Press)
+4.  “Machine Learning for Health 4.0” in Application of ML and AI in Engineering 
+and healthcare, NOAA Academic Publishers. In Review.
+5. “Epileptic Spike Localization using MEG MRI modality Fusion for Intelligent Smart 
+Healthcare” in Data Fusion Techniques and Applications for Smart Healthcare, edited by Stefano 
+Berretti and Amit Kumar Singh, part of the book series Intelligent Data-Centric Systems, Book 
+Series Intelligent Data-Centric Systems, Elsevier.
+
+
 
 
 ## <span style="color: orangered">Patents</span>
