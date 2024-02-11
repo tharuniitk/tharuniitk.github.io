@@ -53,7 +53,7 @@ slug: /publications
 15. V. Gupta, T. Kendre, T.K. Reddy and V.Arora, ‘Comparative Performance Analysis of Scalp EEG and Ear EEG Based P300 Ambulatory Brain-Computer Interfaces Using Riemannian Geometry and Convolutional Neural Networks.’ accepted and presented In 2022 IEEE, National conference on communications
 16. V. Gupta, S. Swaminathan, T.K.Reddy, ‘Performance Study of Neural Structured Learning Using Riemannian Features for BCI Classification.’ accepted and presented In 2022 IEEE, National conference on communications
 17. Swati Singh, Vinay Gupta, T.K. Reddy, ‘Meditation and Cognitive Enhancement: A Machine Learning Based Classification Using EEG’ submitted at IEEE SMC 2022
-18. [<ins>EEG-Based Reaction Time Prediction with Fuzzy Common Spatial Patterns and Phase Cohesion using Deep Autoencoder Based Data Fusion</ins>]( https://ieeexplore.ieee.org/document/8437157) 
+18. Singh, Vivek, and Tharun Kumar Reddy. "Eeg-based reaction time prediction with fuzzy common spatial patterns and phase cohesion using deep autoencoder based data fusion." 2023 IEEE 4th Annual Flagship India Council International Subsections Conference (INDISCON). IEEE, 2023.
 
 ## <span style="color: orangered">Book Chapters</span>
 
