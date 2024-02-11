@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-## <span style="color: green">Research</span>
+## <span style="color: green">Open positions/Career</span>
 -<b>Internship oppurtunities are available</b>, currently looking for interns in the following positions: part-time Webapp Developer, unreal/unity enviroment developers. We are looking for student interns who can excel in these areas with focus on research based development. If any of you match the areas above, please email me at tharun.reddy@ece.iitr.ac.in. Both IIT/Non-IIT students, can approach for these oppurtunities. 
 
 ## <span style="color: Green"> About me </span>
