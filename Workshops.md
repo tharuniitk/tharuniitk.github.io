@@ -1,3 +1,10 @@
+---
+layout: home
+title: Workshops
+slug: /Workshops
+---
+
+
 ## Venue
 [Venue Name or Address]
 
