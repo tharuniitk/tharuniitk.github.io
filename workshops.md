@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Workshops
-slug: /Workshops
+title: workshops
+slug: /workshops
 ---
 
 
