@@ -59,10 +59,7 @@ signal processing, speech signal processing, brain-computer interface, machine l
 - **Title/Position**: [Associate Professor]
 - **Organization**: [Department of Electronics & Communication Engineering, IIT Roorkee]
 - **Biography**:
-### [Dr. Ramana Vinjumuri]
-- **Title/Position**: [Associate Professor]
-- **Organization**: [Department of Computer Science and Electrical Engineering ,University of Maryland Baltimore County]
-- **Biography**:
+
 ## Registration
 To register for the workshop, please fill out the registration form [here](registration-link).
 
