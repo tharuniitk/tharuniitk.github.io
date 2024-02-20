@@ -27,6 +27,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 
 ## Speakers
 ### [Prof. Ram Bilas Pachori]
+![Alt text](https://drive.google.com/uc?export=view&id=1vgDfufM0weptvNZCjhzKn3kLT6XAE3C3)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore
 ]
@@ -34,12 +35,13 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
 ### [Prof. Laxmidhar Behera] 
-![Alt text](https://drive.google.com/file/d/1UwGFVQ2zL4oxagfWXy38lqPBYx3jGC_H/view?usp=drive_link)
+![Alt text](https://drive.google.com/uc?export=view&id=1UwGFVQ2zL4oxagfWXy38lqPBYx3jGC_H)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:
 - 
 ### [Dr. Amith Sethi]
+
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Philadelphia]
 - **Biography**:
@@ -47,11 +49,13 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 
 ### [Dr. Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
+- ![Alt text](https://drive.google.com/uc?export=view&id=1g7ng3gVc_g3ghA5MSq_1i8AM7Oxhfiiq)
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
 -
 ### [Dr. Pyari Mohan Pradhan]
 - **Title/Position**: [Speaker's Title/Position]
+- ![Alt text](https://drive.google.com/uc?export=view&id=13tm6VxnZ8jXwTLH-h2LmtV3Si17BbhNJ)
 - **Organization**: [IIT Roorkee]
 - **Biography**:
 -
