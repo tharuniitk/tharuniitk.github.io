@@ -50,7 +50,7 @@ signal processing, speech signal processing, brain-computer interface, machine l
 - **Organization**: [Director, IIT Mandi]
 - **Biography**:[Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.]
 ### [Dr. Amit Sethi]
-![Alt text](/main/assets/img/amit.jpeg)
+(/main/assets/img/amit.jpeg)
 - **Title/Position**: [Associate Professor]
 - **Organization**: [Department of Occupational Therapy, University of Pittsburgh]
 - **Biography**:
