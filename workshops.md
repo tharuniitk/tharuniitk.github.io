@@ -27,7 +27,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 
 ## Speakers
 ### [Prof. Ram Bilas Pachori]
-<img src="https://drive.google.com/uc?export=view&id=1ElRmmPWcqPLd5Gg8cR5Z0UzN2KJIKfal" alt="Alt text">
+
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore]
 - **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
@@ -48,7 +48,8 @@ signal processing, speech signal processing, brain-computer interface, machine l
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:[Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.]
-### [Dr. Amith Sethi](https://drive.google.com/uc?export=view&id=1ElRmmPWcqPLd5Gg8cR5Z0UzN2KJIKfal)
+### [Dr. Amith Sethi]
+[<img src="https://drive.google.com/uc?export=view&id=1ElRmmPWcqPLd5Gg8cR5Z0UzN2KJIKfal" alt="Alt text">]
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Pittsburgh]
 - **Biography**:
