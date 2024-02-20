@@ -48,12 +48,12 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
 -
-- ### [Dr. Pyari Mohan Pradhan]
+### [Dr. Pyari Mohan Pradhan]
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Roorkee]
 - **Biography**:
 -
-- ### [Dr. Ramana Vinjumuri]
+### [Dr. Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
