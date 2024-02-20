@@ -30,24 +30,26 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 ![Alt text](https://drive.google.com/uc?export=view&id=1vgDfufM0weptvNZCjhzKn3kLT6XAE3C3)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore]
-- **Biography**:[Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
+- **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively. His research interests include signal and image processing, biomedical signal processing, non-stationary
+signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.]
 ### [Prof. Laxmidhar Behera] 
 ![Alt text](https://drive.google.com/uc?export=view&id=1UwGFVQ2zL4oxagfWXy38lqPBYx3jGC_H)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:
 ### [Dr. Amith Sethi]
+
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Philadelphia]
 - **Biography**:
 ### [Dr. Ramana Vinjumuri]
-- **Title/Position**: [Speaker's Title/Position]
 - ![Alt text](https://drive.google.com/uc?export=view&id=1g7ng3gVc_g3ghA5MSq_1i8AM7Oxhfiiq)
+- **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
 ### [Dr. Pyari Mohan Pradhan]
-- **Title/Position**: [Speaker's Title/Position]
 - ![Alt text](https://drive.google.com/uc?export=view&id=13tm6VxnZ8jXwTLH-h2LmtV3Si17BbhNJ)
+- **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Roorkee]
 - **Biography**:
 ### [Dr. Ramana Vinjumuri]
