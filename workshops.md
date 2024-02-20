@@ -6,10 +6,12 @@ slug: /workshops
 
 
 ## Venue
-[Venue Name or Address]
+Indian Institute Of Technology Roorkee, Roorkee, Uttarakhand, 247667
 
 ## About the Workshop
+SERB Sponsored High-End Workshop (KARYASHALA) on "Artificial Intelligence for Human Brain Computer Interaction"
 [Provide a brief description of the workshop, its objectives, and what participants can expect to learn.]
+The Indian Institute of Technology Roorkee, Department of Electronics and Communication Engineering is organizing a workshop titled "Artificial Intelligence for Human Brain Computer Interaction: Innovations in Machine Learning and Signal Processing for emergence of Health 5.0." The workshop is scheduled to take place from March 18, 2024 and is sponsored by the Government of India's SCIENCE & ENGINEERING RESEARCH BOARD (SERB). This event is part of the Accelerate Vigyan Scheme, which seeks to boost high-end scientific research and cultivate a scientific workforce that can pursue research careers and knowledge-based economies. KARYASHALA is an initiative aimed at enhancing the research productivity of promising Postgraduate and Ph.D. students from universities and colleges by conducting high-end workshops on specific themes. This workshop would feature renowned experts across India and globally in the HCI (Human Computer Interaction) domain. Also, industry experts in healthcare and key policy makers have been invited as speakers at this workshop. The objective is to train learners in the core tools of Artificial Intelligence for Human Brain Computer Interaction. This workshop will also help chalk-out a clear pathway for development and deployment of these technologies in the Indian context. 
 
 ## Agenda
 - **9:00 am - 9:30 am**: Registration and Networking
