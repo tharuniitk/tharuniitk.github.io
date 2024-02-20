@@ -28,11 +28,12 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 ## Speakers
 ### [Prof. Ram Bilas Pachori]
 - **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [IIT Indore]
+- **Organization**: [IIT Indore
+]
 - **Biography**:
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
-### [Prof. Laxmidhar Behera]
+### [Prof. Laxmidhar Behera] ![alt text]([https://drive.google.com/file/d/1ofD-GRqbZEm1X6uN2o6qH4USMurnwm6F/view?usp=drive_link])
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:
