@@ -27,7 +27,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 
 ## Speakers
 ### [Prof. Ram Bilas Pachori]
--![Alt text](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
+###![Alt text](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore]
 - **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
