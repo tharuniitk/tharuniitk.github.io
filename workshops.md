@@ -30,7 +30,19 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 ![Alt text](https://drive.google.com/uc?export=view&id=1vgDfufM0weptvNZCjhzKn3kLT6XAE3C3)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore]
-- **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively. His research interests include signal and image processing, biomedical signal processing, non-stationary
+- **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
+- Before joining the IIT Indore, India, he was a Post-Doctoral Fellow at the Charles Delaunay Institute,
+University of Technology of Troyes, France (2007-2008) and an Assistant Professor at the Communication
+Research Center, International Institute of Information Technology, Hyderabad, India (2008-2009). He was an
+Assistant Professor (2009-2013) and an Associate Professor (2013-2017) at the Department of Electrical
+Engineering, IIT Indore, where he has been a Professor, since 2017. He is also associated with the Center for
+Advanced Electronics, IIT Indore. He was a Visiting Professor at the Department of Computer Engineering,
+Modeling, Electronics and Systems Engineering, University of Calabria, Rende, Italy, in July 2023; Faculty of
+Information & Communication Technology, University of Malta, Malta, from June 2023 to July 2023; Neural
+Dynamics of Visual Cognition Lab, Free University of Berlin, Germany, from July 2022 to September 2022; School
+of Medicine, Faculty of Health and Medical Sciences, Taylor’s University, Malaysia, from 2018 to 2019.
+Previously, he was a Visiting Scholar at the Intelligent Systems Research Center, Ulster University, Londonderry,UK, in December 2014. 
+- His research interests include signal and image processing, biomedical signal processing, non-stationary
 signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.]
 ### [Prof. Laxmidhar Behera] 
 ![Alt text](https://drive.google.com/uc?export=view&id=1UwGFVQ2zL4oxagfWXy38lqPBYx3jGC_H)
