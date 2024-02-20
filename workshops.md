@@ -27,7 +27,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 
 ## Speakers
 ### [Prof. Ram Bilas Pachori]
-- ![Alt text](https://drive.google.com/uc?export=view&id=1OiUg-U7DCXQpAphd1xXH4uSwv6mS6Llf)
+-![Alt text](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Indore]
 - **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
@@ -45,7 +45,7 @@ Previously, he was a Visiting Scholar at the Intelligent Systems Research Center
 His research interests include signal and image processing, biomedical signal processing, non-stationary
 signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.]
 ### [Prof. Laxmidhar Behera] 
--![Alt text](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
+- ![Alt text](https://drive.google.com/uc?export=view&id=1OiUg-U7DCXQpAphd1xXH4uSwv6mS6Llf)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:[Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.]
