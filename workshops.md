@@ -26,22 +26,38 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 - **5:00 pm - 5:30 pm**: Closing Remarks
 
 ## Speakers
-### [Speaker Name 1]
+### [Prof. Ram Bilas Pachori]
 - **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [Speaker's Organization]
+- **Organization**: [IIT Indore]
 - **Biography**:
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
-### [Speaker Name 2]
+### [Prof. Laxmidhar Behera]
 - **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [Speaker's Organization]
+- **Organization**: [IIT Mandi]
+- **Biography**:
+- 
+### [Dr. Amith Sethi]
+- **Title/Position**: [Speaker's Title/Position]
+- **Organization**: [University of Philadelphia]
 - **Biography**:
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
-### [Speaker Name 3]
+### [Dr. Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [Speaker's Organization]
+- **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
+
+- ### [Dr. Pyari Mohan Pradhan]
+- **Title/Position**: [Speaker's Title/Position]
+- **Organization**: [IIT Roorkee]
+- **Biography**:
+
+- ### [Dr. Ramana Vinjumuri]
+- **Title/Position**: [Speaker's Title/Position]
+- **Organization**: [University of Maryland Baltimore County]
+- **Biography**:
+- 
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
 ## Registration
