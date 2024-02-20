@@ -29,43 +29,31 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 ### [Prof. Ram Bilas Pachori]
 ![Alt text](https://drive.google.com/uc?export=view&id=1vgDfufM0weptvNZCjhzKn3kLT6XAE3C3)
 - **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [IIT Indore
-]
-- **Biography**:
-  [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
-
+- **Organization**: [IIT Indore]
+- **Biography**:[Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 ### [Prof. Laxmidhar Behera] 
 ![Alt text](https://drive.google.com/uc?export=view&id=1UwGFVQ2zL4oxagfWXy38lqPBYx3jGC_H)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:
-- 
 ### [Dr. Amith Sethi]
-
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Philadelphia]
 - **Biography**:
-  [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
-
 ### [Dr. Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
 - ![Alt text](https://drive.google.com/uc?export=view&id=1g7ng3gVc_g3ghA5MSq_1i8AM7Oxhfiiq)
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
--
 ### [Dr. Pyari Mohan Pradhan]
 - **Title/Position**: [Speaker's Title/Position]
 - ![Alt text](https://drive.google.com/uc?export=view&id=13tm6VxnZ8jXwTLH-h2LmtV3Si17BbhNJ)
 - **Organization**: [IIT Roorkee]
 - **Biography**:
--
 ### [Dr. Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:
-- 
-  [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
-
 ## Registration
 To register for the workshop, please fill out the registration form [here](registration-link).
 
