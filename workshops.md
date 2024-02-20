@@ -34,8 +34,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
   [Brief biography of the speaker, including their expertise, experience, and any relevant achievements or affiliations.]
 
 ### [Prof. Laxmidhar Behera] 
-![Alt text](![Alt text](https://drive.google.com/uc?export=view&id=1ofD-GRqbZEm1X6uN2o6qH4USMurnwm6F)
-)
+![Alt text](https://drive.google.com/uc?export=view&id=1ofD-GRqbZEm1X6uN2o6qH4USMurnwm6F)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [IIT Mandi]
 - **Biography**:
