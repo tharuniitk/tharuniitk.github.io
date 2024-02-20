@@ -26,9 +26,9 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 - **5:00 pm - 5:30 pm**: Closing Remarks
 
 ## Speakers
-### [Prof. Ram Bilas Pachori](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
-- **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [IIT Indore]
+### [Ram Bilas Pachori](https://drive.google.com/uc?export=view&id=1dMXSTsTfM7eMoLCkEbHE5Z5o-Jq6VBaK)
+- **Title/Position**: [Professor]
+- **Organization**: [Department of Electrical Engineering, IIT Indore]
 - **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
 Before joining the IIT Indore, India, he was a Post-Doctoral Fellow at the Charles Delaunay Institute,
 University of Technology of Troyes, France (2007-2008) and an Assistant Professor at the Communication
@@ -43,25 +43,25 @@ of Medicine, Faculty of Health and Medical Sciences, Taylor’s University, Mala
 Previously, he was a Visiting Scholar at the Intelligent Systems Research Center, Ulster University, Londonderry,UK, in December 2014. 
 His research interests include signal and image processing, biomedical signal processing, non-stationary
 signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.]
-### [Prof. Laxmidhar Behera](https://drive.google.com/uc?export=view&id=1OiUg-U7DCXQpAphd1xXH4uSwv6mS6Llf)
-- **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [IIT Mandi]
+### [Laxmidhar Behera](https://drive.google.com/uc?export=view&id=1OiUg-U7DCXQpAphd1xXH4uSwv6mS6Llf)
+- **Title/Position**: [Professor]
+- **Organization**: [Director, IIT Mandi]
 - **Biography**:[Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.]
-### [Dr. Amith Sethi](https://drive.google.com/uc?export=view&id=1ElRmmPWcqPLd5Gg8cR5Z0UzN2KJIKfal)
-- **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [University of Pittsburgh]
+### [Dr. Amit Sethi](https://drive.google.com/uc?export=view&id=1ElRmmPWcqPLd5Gg8cR5Z0UzN2KJIKfal)
+- **Title/Position**: [Associate Professor]
+- **Organization**: [Department of Occupational Therapy, University of Pittsburgh]
 - **Biography**:
 ### [Dr. Ramana Vinjumuri](https://drive.google.com/uc?export=view&id=1mQdo6LQQtWhvHPR2f_ZNGHT4ldGol6Rm)
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:[Ramana Vinjamuri, PhD is an Associate Professor in the Department of Computer Science and Electrical Engineering (CSEE) at UMBC. He is the Director of Sensorimotor Control Laboratory or Vinjamuri Lab that houses 4 PhD students, 6 MS students and 6 UG students. He received his PhD in 2008 and a postdoc (2008-2012) in the field of Brain Computer Interfaces (BCI) from the University of Pittsburgh. He received the Mary E Switzer Merit Fellowship from NIDILRR in 2010. He received the NSF CAREER Award in 2019. He received a supplement to this award in 2022 to explore commercialization and collaboration of resultant technologies in global markets in Southeast Asia. He received the NSF Industry University Cooperative Research Center (IUCRC) Planning grant in 2020. He is well connected with industry in BCI and is in the process of establishing a neurotechnology center called BRAIN at UMBC. To this end, he held a successful BRAIN industry planning meeting in Sep 2022. This improved the industry network and potential commercial partners for PneumaTM. In June 2022 the PI received an SBIR award from NIDILRR to partner with Delsys, Inc on another technology that started as a publication in Vinjamuri Lab strengthening relations with this potential commercial partner. His other notable commercialization and innovation grants are from the United States India Science and Technology Endowment Fund (USISTEF) and the New Jersey Health Foundation (NJHF). His team has developed and tested a benchtop prototype system that can record EEG and EDA activity under simulated stress and no stress conditions. In July 2022, the PI (Vinjamuri) was invited as a visiting scientist at NIDA collaborating on ecological momentary assessment (EMA) to improve stress detection. In December 2022, the PI was recognized as a Technologist in the 2023 Maryland New Venture Fellowship program (similar to I-Corps node program). He worked with business analysts and mentors to conduct preliminary market analysis and customer discovery in Spring 2023, prior to winning the pitch competition in May 2023 at the conclusion of the fellowship.]
 ### [Dr. Pyari Mohan Pradhan](https://drive.google.com/uc?export=view&id=1TkO6-NaJpVpZSb7LR39mVg16hQMvUi0d)
-- **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [IIT Roorkee]
+- **Title/Position**: [Associate Professor]
+- **Organization**: [Department of Electronics & Communication Engineering, IIT Roorkee]
 - **Biography**:
 ### [Dr. Ramana Vinjumuri]
-- **Title/Position**: [Speaker's Title/Position]
-- **Organization**: [University of Maryland Baltimore County]
+- **Title/Position**: [Associate Professor]
+- **Organization**: [Department of Computer Science and Electrical Engineering ,University of Maryland Baltimore County]
 - **Biography**:
 ## Registration
 To register for the workshop, please fill out the registration form [here](registration-link).
