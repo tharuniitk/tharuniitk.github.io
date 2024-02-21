@@ -86,5 +86,5 @@ Shortlisted Participants will be communicated about further process.
 
 ## Contact
 For inquiries and more information, please contact:
--  Kharyashal Organising team: <a href="mailto:serbkaryashalacourse@gmail.com">Contact Us</a>
+-  Kharyashal Organising team: <a href="mailto:serbkaryashalacourse@gmail.com">serbkaryashalacourse@gmail.com</a>
 
