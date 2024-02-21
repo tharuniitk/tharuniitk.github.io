@@ -79,12 +79,12 @@ Lin joined UTS in 2016 as Co-Director of the Australian AI Institute (AAII) to a
 A highly published researcher in the fields of machine-intelligent systems and brain computer interface, Lin is also the founding director of the Computational Intelligence and Brain Computer Interface Lab at the Australian AI Institute, at UTS. The Lab is developing mobile sensing technology to measure brain activity using non-invasive methods, to assess human cognitive states.
 Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergonomics (2010-20) with the US Army Research Lab. The project explored advanced BCI technologies by studying the effects of vehicle motion and cognitive fatigue, and developing wearable EEG devices.]
 ## Registration
-If you are interested to participate in the workshop, please fill out the form [here (https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01)][here].\
+If you are interested to participate in the workshop, please fill out the form [here] (https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01)].\
 If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form. 
 
 Shortlisted Participants will be communicated about further process.
 
 ## Contact
-For inquiries and more information, please contact:
-- [Tharun Kumar Reddy Bollu]: [tharun.reddy@ece.iitr.ac.in]
-- [Tharun Kumar Reddy Bollu]: [01332285622]
+For inquiries and more information, please contact:\
+-  [bciisl123@gmail.com]
+
