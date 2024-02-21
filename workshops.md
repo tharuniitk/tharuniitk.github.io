@@ -29,7 +29,7 @@ Tharun Kumar Reddy received the B.Tech (in 2013), joint M.Tech and Phd degrees (
 ## Speakers
 ![Alt text](/assets/img/rambilas.jpg)
 ### Prof. Ram Bilas Pachori
-Department of Electrical Engineering, IIT Indore
+Department of Electrical Engineering, IIT Indore\
 Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
 Before joining the IIT Indore, India, he was a Post-Doctoral Fellow at the Charles Delaunay Institute,
 University of Technology of Troyes, France (2007-2008) and an Assistant Professor at the Communication
@@ -46,7 +46,7 @@ His research interests include signal and image processing, biomedical signal pr
 signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.\
 ![Alt text](assets/img/behera.jpeg)
 ### Prof. Laxmidhar Behera
-Director, IIT Mandi
+Director, IIT Mandi\
 Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.\
 ![Alt text](assets/img/amit.jpeg)
 ### Dr. Amit Sethi
@@ -63,12 +63,12 @@ Department of Electronics & Communication Engineering, IIT Roorkee\
 Upside down labs\
 ![Alt text](assets/img/ykwang.jpeg)
 ### YK Wang
-School of Computer Science, University of Technology, Sydney
+School of Computer Science, University of Technology, Sydney\
 He received the B.S. degree in mathematics education from National Taichung University of Education, Taichung, Taiwan, in 2006, and the M.S. degree in biomedical engineering from National Chiao Tung University, Hsinchu Taiwan, in 2009. He received my PhD degree from the Department of Computer Science and Engineering, National Chiao Tung University, Hsinchu, Taiwan, in 2015. After one year military service, He have been an active researcher at University of Technology Sydney (UTS) since December 2016. He is currently a full-time senior lecturer in the School of Computer Science, Faculty of Engineering and Information Technology at UTS since July 2020.
 In the past years, He is working on dynamic cognitive science and neuro-engineering with Prof. Chin-Teng Lin in Brain Research Center (BRC), National Chiao Tung University (NCTU) and Prof. Tzyy-Ping Jung in Swartz Center for Computational Neuroscience (SCCN), University of California, San Diego (UCSD). To achieve better performance of EEG-based application, He visited Human Research and Engineering Directorate in US Army Research Laboratory (ARL) and SCCN in UCSD in 2013 and 2014, respectively. The current interests of his research are to integrate the computational intelligence (CI) with neuroscience knowledge for addressing cognitive functions, discovering the relationships between brain dynamics and cognitive variables, and diagnosing neurological diseases.\
 ![Alt text](assets/img/ctlin.jpeg)
 ### CT Lin
-School of Computer Science, University of Technology, Sydney
+School of Computer Science, University of Technology, Sydney\
 Distinguished Professor Chin-Teng Lin is a leading researcher in artificial intelligence (AI) and brain computer interfaces (BCI), developing systems of brain information processing and communication with machines. Lin studies the brain and behaviours, the physiological changes that occur when human cognitive functions are working, and ways to combine human physiological information with artificial intelligence to develop monitoring and feedback systems. 
 He wants to improve the flow of information from humans to robots, so humans can make better decisions and respond to complex, stressful situations, and so that robots can better understand the status and intention of humans to augment human-machine cooperation. This is an emerging trend identified in the fifth Industrial Revolution to deliver a common good for humanity.
 Lin was the inventor of fuzzy neural networks (FNN) in 1992, introducing neural-network learning into fuzzy systems and incorporating human-like reasoning into neural networks.  Since then, there have been about 500,000 articles about FNN published online. Lin has since developed a series of FNN models with various learning capabilities suitable for different learning environments, as well as targets on multi-agent reinforcement learning for multi-drone coordination and cybersecurity. 
