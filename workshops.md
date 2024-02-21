@@ -20,6 +20,7 @@ The Indian Institute of Technology Roorkee, Department of Electronics and Commun
 ### [Ram Bilas Pachori]
 - **Title/Position**: [Professor]
 - **Organization**: [Department of Electrical Engineering, IIT Indore]
+
 - **Biography**:[Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
 Before joining the IIT Indore, India, he was a Post-Doctoral Fellow at the Charles Delaunay Institute,
 University of Technology of Troyes, France (2007-2008) and an Assistant Professor at the Communication
@@ -45,12 +46,12 @@ signal processing, speech signal processing, brain-computer interface, machine l
 - **Organization**: [Department of Occupational Therapy, University of Pittsburgh]
 - **Biography**:\
 ![Alt text](assets/img/ramana.jpeg)
-### [Dr. Ramana Vinjumuri]
+### [Ramana Vinjumuri]
 - **Title/Position**: [Speaker's Title/Position]
 - **Organization**: [University of Maryland Baltimore County]
 - **Biography**:[Ramana Vinjamuri, PhD is an Associate Professor in the Department of Computer Science and Electrical Engineering (CSEE) at UMBC. He is the Director of Sensorimotor Control Laboratory or Vinjamuri Lab that houses 4 PhD students, 6 MS students and 6 UG students. He received his PhD in 2008 and a postdoc (2008-2012) in the field of Brain Computer Interfaces (BCI) from the University of Pittsburgh. He received the Mary E Switzer Merit Fellowship from NIDILRR in 2010. He received the NSF CAREER Award in 2019. He received a supplement to this award in 2022 to explore commercialization and collaboration of resultant technologies in global markets in Southeast Asia. He received the NSF Industry University Cooperative Research Center (IUCRC) Planning grant in 2020. He is well connected with industry in BCI and is in the process of establishing a neurotechnology center called BRAIN at UMBC. To this end, he held a successful BRAIN industry planning meeting in Sep 2022. This improved the industry network and potential commercial partners for PneumaTM. In June 2022 the PI received an SBIR award from NIDILRR to partner with Delsys, Inc on another technology that started as a publication in Vinjamuri Lab strengthening relations with this potential commercial partner. His other notable commercialization and innovation grants are from the United States India Science and Technology Endowment Fund (USISTEF) and the New Jersey Health Foundation (NJHF). His team has developed and tested a benchtop prototype system that can record EEG and EDA activity under simulated stress and no stress conditions. In July 2022, the PI (Vinjamuri) was invited as a visiting scientist at NIDA collaborating on ecological momentary assessment (EMA) to improve stress detection. In December 2022, the PI was recognized as a Technologist in the 2023 Maryland New Venture Fellowship program (similar to I-Corps node program). He worked with business analysts and mentors to conduct preliminary market analysis and customer discovery in Spring 2023, prior to winning the pitch competition in May 2023 at the conclusion of the fellowship.]\
 ![Alt text](assets/img/pradhan.jpeg)
-### [Dr. Pyari Mohan Pradhan]
+### [Pyari Mohan Pradhan]
 - **Title/Position**: [Associate Professor]
 - **Organization**: [Department of Electronics & Communication Engineering, IIT Roorkee]
 - **Biography**:
@@ -78,11 +79,12 @@ Lin joined UTS in 2016 as Co-Director of the Australian AI Institute (AAII) to a
 A highly published researcher in the fields of machine-intelligent systems and brain computer interface, Lin is also the founding director of the Computational Intelligence and Brain Computer Interface Lab at the Australian AI Institute, at UTS. The Lab is developing mobile sensing technology to measure brain activity using non-invasive methods, to assess human cognitive states.
 Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergonomics (2010-20) with the US Army Research Lab. The project explored advanced BCI technologies by studying the effects of vehicle motion and cognitive fatigue, and developing wearable EEG devices.]
 ## Registration
-To register for the workshop, please fill out the registration form [here](registration-link).
+If you are interested to participate in the workshop, please fill out the form [here (https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01)][here].\
+If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form. 
 
-Registration is free but mandatory as seating is limited.
+Shortlisted Participants will be communicated about further process.
 
 ## Contact
 For inquiries and more information, please contact:
-- [Organizer Name]: [Email Address]
-- [Organizer Name]: [Phone Number]
+- [Tharun Kumar Reddy Bollu]: [tharun.reddy@ece.iitr.ac.in]
+- [Tharun Kumar Reddy Bollu]: [01332285622]
