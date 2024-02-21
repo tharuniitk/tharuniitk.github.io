@@ -99,20 +99,20 @@ Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergono
 -Shortlisted Participants will be communicated about further process.
 <table border="1">
   <tr>
-    <td>Row 1, Column 1</td>
-    <td>Row 1, Column 2</td>
+    <td>**Category**</td>
+    <td>Fee</td>
   </tr>
   <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+    <td>Shortlisted Canditates</td>
+    <td>Rs. 2,500</td>
   </tr>
   <tr>
-    <td>Row 3, Column 1</td>
-    <td>Row 3, Column 2</td>
+    <td>IITR Students</td>
+    <td>Rs. 2,500</td>
   </tr>
   <tr>
-    <td>Row 4, Column 1</td>
-    <td>Row 4, Column 2</td>
+    <td>External Students & Industry Professionals</td>
+    <td>Rs. 12,000</td>
   </tr>
 </table>
 
