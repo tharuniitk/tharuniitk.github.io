@@ -53,8 +53,7 @@ signal processing, speech signal processing, brain-computer interface, machine l
 ![Alt text](assets/img/pradhan.jpeg)
 ### [Pyari Mohan Pradhan]
 - **Title/Position**: [Associate Professor]
-- **Organization**: [Department of Electronics & Communication Engineering, IIT Roorkee]
-- **Biography**:
+- **Organization**: [Department of Electronics & Communication Engineering, IIT Roorkee]\
 ![Alt text](assets/img/deepak.jpeg)
 ### [Deepak Khatri]
 - **Title/Position**: [Founder]
