@@ -86,5 +86,5 @@ Shortlisted Participants will be communicated about further process.
 
 ## Contact
 For inquiries and more information, please contact:\
--  [bciisl123@gmail.com]
+-  Kharyashal Organising team: serbkaryashalacourse@gmail.com
 
