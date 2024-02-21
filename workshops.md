@@ -74,7 +74,7 @@ Lin was the inventor of fuzzy neural networks (FNN) in 1992, introducing neural-
 Lin joined UTS in 2016 as Co-Director of the Australian AI Institute (AAII) to advance AI and BCI. He also secured an industry funding to establish the GrapheneX-UTS Human-centric AI (HAI) Centre in 2023.
 A highly published researcher in the fields of machine-intelligent systems and brain computer interface, Lin is also the founding director of the Computational Intelligence and Brain Computer Interface Lab at the Australian AI Institute, at UTS. The Lab is developing mobile sensing technology to measure brain activity using non-invasive methods, to assess human cognitive states.
 Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergonomics (2010-20) with the US Army Research Lab. The project explored advanced BCI technologies by studying the effects of vehicle motion and cognitive fatigue, and developing wearable EEG devices.\
-![Alt text](assets/img/ctlin.jpeg)
+![Alt text](assets/img/tkgandhi.jpg)
 ### Dr. Tapan K Gandhi
 Department of Electrical Engineering, IIT Delhi\
 Dr Tapan Kumar Gandhi is working as Professor in the Dept. of Electrical Engineering, Cadence Chair Professor of AI and Automation,  Joint Faculty in School of AI, IIT Delhi and adjunct faculty in the school of AI and data science, IIT Jodhpur. He is also research affiliate to MIT, USA. He received his Ph.D. fellowship from (MIT, USA) and obtained his Ph.D. in Biomedical Engineering from IIT Delhi.
