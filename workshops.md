@@ -76,7 +76,7 @@ A highly published researcher in the fields of machine-intelligent systems and b
 Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergonomics (2010-20) with the US Army Research Lab. The project explored advanced BCI technologies by studying the effects of vehicle motion and cognitive fatigue, and developing wearable EEG devices.
 
 ## Registration
-- If you are interested to participate in the workshop, please fill out the form <a href="https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01">here</a>.
+- If you are interested to participate in the workshop, please fill out the form <a href="https://forms.gle/35s4wKh2sp3bwQye9">here</a>.
 - If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form.
 - 25 selected Participants will be communicated about further process.
 - Food and Accomodation (free of cost) will be provided to all the selected participants (Both academia and industry).
