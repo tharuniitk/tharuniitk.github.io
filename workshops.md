@@ -4,7 +4,7 @@ title: workshops
 slug: /workshops
 ---
 
-
+ 
 ## Venue
 Indian Institute Of Technology Roorkee, Roorkee, Uttarakhand, 247667
 
