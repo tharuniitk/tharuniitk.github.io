@@ -92,11 +92,30 @@ Lin joined UTS in 2016 as Co-Director of the Australian AI Institute (AAII) to a
 A highly published researcher in the fields of machine-intelligent systems and brain computer interface, Lin is also the founding director of the Computational Intelligence and Brain Computer Interface Lab at the Australian AI Institute, at UTS. The Lab is developing mobile sensing technology to measure brain activity using non-invasive methods, to assess human cognitive states.
 Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergonomics (2010-20) with the US Army Research Lab. The project explored advanced BCI technologies by studying the effects of vehicle motion and cognitive fatigue, and developing wearable EEG devices.]
 ## Registration
-If you are interested to participate in the workshop, please fill out the form <a href="https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01">here</a>
+- If you are interested to participate in the workshop, please fill out the form <a href="https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01">here</a>
 .\
-If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form. 
+- If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form. 
 
-Shortlisted Participants will be communicated about further process.
+-Shortlisted Participants will be communicated about further process.
+<table border="1">
+  <tr>
+    <td>Row 1, Column 1</td>
+    <td>Row 1, Column 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Column 1</td>
+    <td>Row 2, Column 2</td>
+  </tr>
+  <tr>
+    <td>Row 3, Column 1</td>
+    <td>Row 3, Column 2</td>
+  </tr>
+  <tr>
+    <td>Row 4, Column 1</td>
+    <td>Row 4, Column 2</td>
+  </tr>
+</table>
+
 
 ## Contact
 For inquiries and more information, please contact:
