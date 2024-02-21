@@ -82,8 +82,8 @@ Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergono
 - Shortlisted Participants will be communicated about further process.
 <table border="1">
   <tr>
-    <td><b>Category<b></td>
-    <td><b>Fee<b></td>
+    <td><b>Category</td>
+    <td>Fee<b></td>
   </tr>
   <tr>
     <td>Shortlisted Canditates</td>
