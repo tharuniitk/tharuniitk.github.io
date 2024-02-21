@@ -31,7 +31,7 @@ Chairman
 Convener
 - **Title/Position**: [Assistant Professor]
 - **Organization**: [ECE Department, IIT Roorkee]
-- **Biography**: []
+- **Biography**: [Tharun Kumar Reddy received the B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in electrical engineering from the Indian Institute of Technology Kanpur, Kanpur, India, where he is currently working as an Assistant Professor in ECE Department at IIT Roorkee. His research interests include deep learning for brain–computer interfaces, multimodal biosignal processing, machine learning, and biomedical signal processing. He contributed his research work in peer-reviewed journals, conferences, and in filing patents.]
 ## Speakers
 ![Alt text](/assets/img/rambilas.jpg)
 ### [Prof. Ram Bilas Pachori]
