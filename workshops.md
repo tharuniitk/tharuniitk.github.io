@@ -93,7 +93,7 @@ Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergono
     <td>Rs. 2,500</td>
   </tr>
   <tr>
-    <td>External Students & Industry Professionals</td>
+    <td>Self-sponsored & Industry Professionals</td>
     <td>Rs. 12,000</td>
   </tr>
 </table>
