@@ -78,8 +78,9 @@ Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergono
 ## Registration
 - If you are interested to participate in the workshop, please fill out the form <a href="https://docs.google.com/forms/d/1te3-n9lZdXX-kmWtvM1CQtEzAoE9UXLE7RVKnFi473Q/edit?ts=65cf4f01">here</a>.
 - If you belong to industry/start-up still you can participate in this workshop and also there are oppurtunities to ADVERTISE your products at a stall during the event. More details will be shared as one fills the above form.
-- Shortlisted Participants will be communicated about further process.
-- Food and Accomodation will be provided to the participants.
+- 25 selected Participants will be communicated about further process.
+- Food and Accomodation (free of cost) will be provided to all the selected participants (Both academia and industry).
+- Travel allowance will be provided for the selected participants based on the SERB norms (Upto 3AC).
 <table border="1">
   <tr>
     <td>Category</td>
