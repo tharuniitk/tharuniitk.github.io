@@ -85,6 +85,6 @@ If you belong to industry/start-up still you can participate in this workshop an
 Shortlisted Participants will be communicated about further process.
 
 ## Contact
-For inquiries and more information, please contact:\
--  Kharyashal Organising team: serbkaryashalacourse@gmail.com
+For inquiries and more information, please contact:
+-  Kharyashal Organising team: <a href="mailto:serbkaryashalacourse@gmail.com">Contact Us</a>
 
