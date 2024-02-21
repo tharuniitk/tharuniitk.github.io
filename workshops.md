@@ -28,7 +28,7 @@ Convener, ECE Department, IIT Roorkee\
 Tharun Kumar Reddy received the B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in electrical engineering from the Indian Institute of Technology Kanpur, Kanpur, India, where he is currently working as an Assistant Professor in ECE Department at IIT Roorkee. His research interests include deep learning for brain–computer interfaces, multimodal biosignal processing, machine learning, and biomedical signal processing. He contributed his research work in peer-reviewed journals, conferences, and in filing patents.
 ## Speakers
 ![Alt text](/assets/img/rambilas.jpg)
-Prof. Ram Bilas Pachori
+### Prof. Ram Bilas Pachori
 Department of Electrical Engineering, IIT Indore
 Ram Bilas Pachori received the B.E. degree with honours in Electronics and Communication Engineering from Rajiv Gandhi Technological University, Bhopal, India, in 2001, the M.Tech. and Ph.D. degrees in Electrical Engineering from IIT Kanpur, India, in 2003 and 2008, respectively.
 Before joining the IIT Indore, India, he was a Post-Doctoral Fellow at the Charles Delaunay Institute,
@@ -45,11 +45,11 @@ Previously, he was a Visiting Scholar at the Intelligent Systems Research Center
 His research interests include signal and image processing, biomedical signal processing, non-stationary
 signal processing, speech signal processing, brain-computer interface, machine learning, and artificial intelligence and the internet of things in healthcare. He is an Associate Editor of Electronics Letters, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Computers and Electrical Engineering, and Biomedical Signal Processing and Control, and an Editor of IETE Technical Review journal. He is a Fellow of IETE, IEI, and IET. He has 323 publications, which include journal articles (200), conference papers (86), books (10), and book chapters (27). He has also eight patents, including one Australian patent (granted) and seven Indian patents (published). His publications have been cited approximately 16,000 times with h-index of 68 according to Google Scholar.\
 ![Alt text](assets/img/behera.jpeg)
-Prof. Laxmidhar Behera
+### Prof. Laxmidhar Behera
 Director, IIT Mandi
 Prof Laxmidhar Behera is currently working as the Director, IIT Mandi on deputation from IIT Kanpur. He served as TCS affiliate faculty during 2021-22. During his 27 years of research and teaching career, Prof Laxmidhar Behera has contributed significantly to areas such as Intelligent Systems and Control, Vision based Robotics, Warehouse automation, Brain-Computer-Interface and Drone Technology. His work has a unique blend of theory and experiments. He has established industrial collaboration with TCS, Renault Nissan, and ADNOC, Abu Dhabi, BEL Bangalore while making significant technological development in the areas such robotics-based ware-house automation, vision and drone guided driver assistance system, and drone guided pipeline inspection systems. His team secured 3rd position in the Amazon Robotics Challenge 2017 among top 16 teams across the globe and 4th position in the stow-cum-pick event. He has supervised 24 PhD students to completion and currently supervises 14 PhD students. Besides, he has supervised more than 70 masters’ dissertations. He has published three graduate level text books, 110 peer reviewed journal papers, 208 papers in conference proceedings and 17 book chapters.\
 ![Alt text](assets/img/amit.jpeg)
-Dr. Amit Sethi
+### Dr. Amit Sethi
 Department of Occupational Therapy, University of Pittsburgh\
 ![Alt text](assets/img/ramana.jpeg)
 ### Dr. Ramana Vinjumuri 
