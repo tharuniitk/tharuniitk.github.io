@@ -101,9 +101,9 @@ Lin led a large-scale 10-year project ($10 million) on Cognition and Neuroergono
 </table>
 
 ## Important Dates
-- Last date of Registration:
-- Notification for selected Canditates:
-- Last date of payment: 
+- Last date of Registration: 27 Feb 2024
+- Notification for selected Canditates: 29 Feb 2024
+- Last date of payment: 1 Mar 2024
 
 ## Contact
 For inquiries and more information, please contact:
