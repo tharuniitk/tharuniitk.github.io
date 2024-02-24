@@ -113,5 +113,5 @@ He has received many awards in India (including one from Ex-President of India, 
 
 ## Contact
 For inquiries and more information, please contact:
--  Karyashala Organising team: <a href="mailto:serbkaryashalacourse@gmail.com">serbkaryashalacourse@gmail.com</a>
+-  Karyashala Organising team: <a href="mailto:serbcourse@gmail.com">serbcourse@gmail.com</a>
 
