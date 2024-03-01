@@ -107,9 +107,9 @@ He has received many awards in India (including one from Ex-President of India, 
 </table>
 
 ## Important Dates
-- Last date of Registration: 27 Feb 2024
-- Notification for selected Canditates: 29 Feb 2024
-- Last date of payment: 1 Mar 2024
+- Last date of Registration: 2 Mar 2024
+- Notification for selected Canditates: 2 Mar 2024
+- Last date of payment: 3 Mar 2024
 
 ## Contact
 For inquiries and more information, please contact:
