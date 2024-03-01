@@ -31,6 +31,8 @@ I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins
 
 ## <span style="color: Green">Research Experience (most recent):</span>
 
+| 2024 February-March : <br> <b> SERB Sponsored High-End Workshop (KARYASHALA) on "Artificial Intelligence for Human Brain Computer Interaction" The Indian Institute of Technology Roorkee, Department of Electronics and Communication Engineering is organizing a workshop titled "Artificial Intelligence for Human Brain Computer Interaction: Innovations in Machine Learning and Signal Processing for emergence of Health 5.0." The workshop is scheduled to take place from March 18, 2024 and is sponsored by the Government of India's SCIENCE & ENGINEERING RESEARCH BOARD (SERB). Please go through workshops button on homepage and attend by registering at https://forms.gle/Q97MEZq5eUXp39rf7  </b><br/>|
+
 | 2024 January : <br> <b>Artificial Intelligence for Human Brain Computer Interaction: Innovations in Machine Learning and Signal Processing for Emergence of Health 5.0., workshop proposal accepted, Congratulations!! </b><br/>|
 
 | 2023 November : <br> <b>Following papers have been accepted for oral presentation from our research group at IEEE SILCON 2023, conducted by IEEE NIT SILCHAR subsection. Congratulations!! </b><br>(a) Entropy based EEG irregularity quantification in Single-Channel SSVEP-based BCIs <br>(b) Schizophrenia and Bipolar Psychosis Classification with rsfMRI Functional Connectivity Feature Fusion technique using Super Learner<br> <br/>|
